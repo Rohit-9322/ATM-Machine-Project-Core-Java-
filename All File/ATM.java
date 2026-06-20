@@ -1,5 +1,18 @@
 package all_class;
 
+// ATM Machine Project 
+
+/* A} validate the user through ATM number and Pin 
+   B} User Should able to perfrom below operation 
+   
+     1] Cheack Available Balance 
+     2] Withdraw Amounnt 
+     3] Deposit Amount 
+     4] view mini project 
+     5] Exit 
+     
+*/
+
 public class ATM {
     private double balance;
     private double depositAmount;
